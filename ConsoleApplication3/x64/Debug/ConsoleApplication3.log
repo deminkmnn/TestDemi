@@ -1,4 +1,0 @@
-﻿  ConsoleApplication3.cpp
-C:\Users\prysa\Desktop\Основи програмного забезпечення\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(54,9): warning C4102: restart_first_loop: неиспользованная метка
-C:\Users\prysa\Desktop\Основи програмного забезпечення\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(94,9): warning C4102: restart_2: неиспользованная метка
-  ConsoleApplication3.vcxproj -> C:\Users\prysa\Desktop\Основи програмного забезпечення\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
